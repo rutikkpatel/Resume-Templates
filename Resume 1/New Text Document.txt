@@ -1,0 +1,41 @@
+Name
+Job Role
+Profile pic
+Address line 1 - House num,street
+Address line 2 - Landmark, City
+Address Line 3 - State
+Email
+social-media 1
+social media 2
+social media 3
+
+Expertise 1
+Expertise 2
+Expertise 3
+Expertise 4
+
+Education
+Degree 1
+College 1
+
+Degree 2
+College 2
+
+Hobbies 1
+Hobbies 2
+Hobbies 3
+
+profile-summary
+
+Experience
+Pr-Job-title 1
+Pr-Job-role 1
+Pr-Job-Description 1
+
+Pr-Job-title 2
+Pr-Job-role 2
+Pr-Job-Description 2
+
+Pr-Job-title 3
+Pr-Job-role 3
+Pr-Job-Description 3
